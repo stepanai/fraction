@@ -18,7 +18,7 @@ int main() {
     Fraction s1(5);
     Fraction s2(5.0);
 
-    Fraction dr(31.5);
+    Fraction dr(41.5);
     Fraction as=7.18+dr;
     double dd=double(7.18+dr);
     std::cout<<(double)as<<std::endl;
